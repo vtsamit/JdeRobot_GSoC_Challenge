@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing intro_package.egg-info/PKG-INFO
+writing dependency_links to intro_package.egg-info/dependency_links.txt
+writing entry points to intro_package.egg-info/entry_points.txt
+writing requirements to intro_package.egg-info/requires.txt
+writing top-level names to intro_package.egg-info/top_level.txt
+reading manifest file 'intro_package.egg-info/SOURCES.txt'
+writing manifest file 'intro_package.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/amitesh/GSoC_ros2_ws/install/intro_package/lib/python3.10/site-packages/intro-package.egg-link (link to .)
+Installing publisher_gsoc script to /home/amitesh/GSoC_ros2_ws/install/intro_package/lib/intro_package
+
+Installed /home/amitesh/GSoC_ros2_ws/build/intro_package
+running symlink_data
+symbolically linking /home/amitesh/GSoC_ros2_ws/build/intro_package/resource/intro_package -> /home/amitesh/GSoC_ros2_ws/install/intro_package/share/ament_index/resource_index/packages
+symbolically linking /home/amitesh/GSoC_ros2_ws/build/intro_package/package.xml -> /home/amitesh/GSoC_ros2_ws/install/intro_package/share/intro_package

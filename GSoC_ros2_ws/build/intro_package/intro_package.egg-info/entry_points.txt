@@ -1,0 +1,4 @@
+[console_scripts]
+publisher_gsoc = intro_package.publisher:main
+subscriber_gsoc = intro_package.subscriber:main
+
